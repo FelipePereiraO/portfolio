@@ -1,0 +1,74 @@
+body{
+    background: rgb(31, 30, 30);
+    color: white;
+    
+
+}
+a{
+    text-decoration: none;
+    color: unset;
+    
+}
+button{
+    height: 60px;
+    width: 155px;
+    
+}
+#dev{
+    background: white;
+    width: 120px;
+}
+
+#div2{
+    display: inline-block;
+    padding-left: 100px;
+    padding-top: 220px;
+    position: static;
+    height: 500px;
+}
+#div3{
+    padding: 50px;
+    clear:both;
+    background: rgb(31, 30, 30);
+    text-align: center;
+    
+}
+.card{
+    display: inline-block;
+    margin: auto;
+}
+
+
+#Foto{
+    border-radius: 10px;
+    float: right;
+}
+#projeto{
+    padding: 50px;
+    text-align: center;
+    float: auto;
+}
+#ListaProjetos{
+    display: inline-block;
+    padding: 25px;
+}
+
+#projetos{
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 2px black;
+}
+.card-img-overlay{
+    display: none;
+    background: rgba(0, 0, 0, 0.822);
+    height: 250px;
+    border-radius: 9px;
+}
+.card:hover .card-img-overlay{
+    display: block;
+}
+
+
+footer{
+    text-align: center;
+}
+
