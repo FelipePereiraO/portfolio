@@ -12,6 +12,7 @@ a{
 button{
     height: 60px;
     width: 155px;
+    margin: 2px;
     
 }
 #dev{
